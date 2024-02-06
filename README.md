@@ -1,3 +1,3 @@
 # Open Clients
 
-CRM and Service for online client registration
+App for online client scheduling
